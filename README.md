@@ -1,2 +1,2 @@
-# Cronometro.java
+# Cronometro
 Cronometro
